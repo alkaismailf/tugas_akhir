@@ -1,0 +1,7 @@
+Akun Manager:
+Username	: manager
+Password	: manager
+
+Akun Owner:
+Username	: owner
+Password	: owner
